@@ -18,4 +18,3 @@ jobs:
         with:
           name: JARVIS-AI-APK
           path: app/build/outputs/apk/debug/*.apk
-          
